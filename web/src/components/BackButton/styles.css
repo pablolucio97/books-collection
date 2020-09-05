@@ -1,0 +1,14 @@
+.button-container button{
+    width: 8rem;
+    height: 2rem;
+    background-color: var(--color-secondary-box);
+    border: none;
+    border-radius: .2rem;
+    margin: 1.5rem;
+    color: #ddd
+}
+
+.button-container button:hover{
+    background-color: var(--color-primary-box);
+    transition: .5s
+}

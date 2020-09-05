@@ -1,0 +1,36 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    margin-top: 3rem;
+    margin-bottom: 28.5vh;
+}
+
+.main-container h3{
+    font-size: 2rem;
+    margin-bottom: 1rem
+}
+
+.main-container input{
+    width: 12rem;
+    height: 2rem;
+    margin: .2rem;
+    padding: .1rem;
+}
+
+.main-container button{
+    width: 12.5rem;
+    height: 2rem;
+    background-color: var(--color-primary-box);
+    color: #ddd;
+    font-size: .9rem;
+    margin-top: 1rem;
+    border: none;
+    border-radius: .2rem;
+}
+
+.main-container button:hover{
+    background-color: var(--color-secondary-box);
+    transition: .5s
+}
