@@ -4,13 +4,6 @@
 
 Books Collection é uma api rest que permite criar, alterar, selecionar e deletar books (os dados) da api diretamente da web ou do dispositivo mobile simultaneamente.
 
-
-## :computer: Web
- ![image](https://im7.ezgif.com/tmp/ezgif-7-b793fdb8fa5c.gif)
-
-## :iphone: Mobile
-![image](https://im7.ezgif.com/tmp/ezgif-7-e0c16793d953.gif)
-
 ## :rocket: Tecnologias utilizadas:
 
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
